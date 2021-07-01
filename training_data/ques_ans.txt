@@ -1,0 +1,6 @@
+what is cpq?
+Configure price quote
+CPQ?
+Configure price quote
+CPQ process?
+configure-->price-->quote-->generate proposal-->negotiate-->Approval/finalise-->order
